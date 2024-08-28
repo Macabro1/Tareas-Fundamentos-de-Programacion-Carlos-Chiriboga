@@ -33,7 +33,7 @@ mostrar_matriz(matriz)
 
 # En este ejemplo.txt:
 # Creamos una matriz 3x3 para representar nuestros datos.
-# Implementamos la función bubble_sort_fila que utiliza el algoritmo del Método de la Burbuja para ordenar una fila de manera ascendente.
+# Implementamos la función bubble_sort_fila que utiliza el algoritmo del Metodo de la Burbuja para ordenar una fila de manera ascendente.
 # Utilizamos un bucle para recorrer cada fila de la matriz y aplicar bubble_sort_fila para ordenar las filas individualmente.
 # Mostramos la matriz original y luego la matriz ordenada por filas.
 # El algoritmo Bubble Sort compara pares de elementos adyacentes y los intercambia si están en el orden incorrecto. Repite este proceso hasta que la matriz esté completamente ordenada. Es importante recordar que este algoritmo puede no ser eficiente en arreglos grandes debido a su complejidad de tiempo cuadrática.

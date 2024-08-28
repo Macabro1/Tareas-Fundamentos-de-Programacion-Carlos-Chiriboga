@@ -31,7 +31,7 @@ else:
 
 # En este ejemplo.txt:
 # - Creamos una matriz 3x3 para representar nuestros datos.
-# - Especificamos el valor que estamos buscando (en este caso, 9).
+# - Especificamos el valor que estamos buscando (en este caso, 6).
 # - Usamos dos bucles "for" anidados para recorrer la matriz y buscar el valor deseado.
 # - Cuando encontramos el valor, guardamos la fila y columna en las variables fila_encontrada y columna_encontrada.
 # - Detenemos la búsqueda una vez que se encuentra el valor usando las declaraciones break.
