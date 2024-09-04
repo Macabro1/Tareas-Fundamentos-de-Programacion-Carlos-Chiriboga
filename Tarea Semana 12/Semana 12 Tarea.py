@@ -1,7 +1,7 @@
 import numpy as np
 
 # Definir dimensiones
-ciudades = ["Esmeraldas", "Guayaquil", "Cuenca"]
+ciudades = ["Quito", "Guayaquil", "Cuenca"]
 dias_semana = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
 semanas = 4
 
